@@ -43,3 +43,4 @@ yahooFinance.historical({
     console.log('N/A');
   }
 });
+  

@@ -3,7 +3,7 @@
 
 ## usage
 ```sh
-node src/yahoo.js
+node yahoo.js
 ```
 
 It prints the output (JSON) of a sample query
