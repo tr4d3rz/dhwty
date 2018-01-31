@@ -1,1 +1,1 @@
-web: node yahoo.js
+worker: node yahoo.js
